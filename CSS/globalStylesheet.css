@@ -1,0 +1,16 @@
+html * {
+    font-family: Comfortaa;
+}
+
+body {
+    background: #212121;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: #12ff00;
+}
